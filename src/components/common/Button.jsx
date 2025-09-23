@@ -8,7 +8,14 @@ const StyledButton = styled.button`
     // hover style
 `;
 
-function Button({ }) {
+function Button_B({ }) {
+    return (
+        <>
+        </>
+    );
+}
+
+function Button_W({ }) {
     return (
         <>
         </>
